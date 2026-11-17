@@ -1,1 +1,8 @@
 
+PASS: mvn clean test completed successfully.
+PASS: Main window and all module navigation buttons work.
+PASS: Module A recursion algorithms and Hanoi animation verified.
+PASS: Module B data structures and scrolling verified.
+PASS: Module C visualizer, Compare All and complexity guide verified.
+PASS: Module D experiments, cancellation, tables and charts verified.
+PASS: Required screenshots captured and saved.
